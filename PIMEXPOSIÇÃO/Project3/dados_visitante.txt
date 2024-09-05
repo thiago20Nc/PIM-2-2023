@@ -1,0 +1,7 @@
+Nome: thh
+Idade: 55 anos
+Tipo de Ingresso: c
+Valor do Ingresso: R$40,00
+Dia da Visita: 1/11/2023
+Exposição Escolhida: Vida de Pelé
+---------------------------------

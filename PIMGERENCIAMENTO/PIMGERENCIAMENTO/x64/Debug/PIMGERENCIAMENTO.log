@@ -1,0 +1,5 @@
+﻿  ArquivoGerencia.c
+C:\Users\carva\OneDrive\Área de Trabalho\PIM 2\PIMGERENCIAMENTO\PIMGERENCIAMENTO\ArquivoGerencia.c(11,31): warning C4013: 'strcspn' indefinido; assumindo extern retornando int
+  GERENCIAMENTO.c
+  Gerando Código...
+  PIMGERENCIAMENTO.vcxproj -> C:\Users\carva\OneDrive\Área de Trabalho\PIM 2\PIMGERENCIAMENTO\x64\Debug\PIMGERENCIAMENTO.exe

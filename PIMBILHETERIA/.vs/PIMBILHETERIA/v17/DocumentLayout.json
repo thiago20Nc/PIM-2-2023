@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carva\\OneDrive\\Documentos\\FACULDADE\\PIM\\PIMBILHETERIA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carva\\OneDrive\\Documentos\\FACULDADE\\PIM\\PIMBILHETERIA\\PIMBILHETERIA\\DadosVisitante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PIMBILHETERIA\\DadosVisitante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carva\\OneDrive\\Documentos\\FACULDADE\\PIM\\PIMBILHETERIA\\PIMBILHETERIA\\BILHETERIA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PIMBILHETERIA\\BILHETERIA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carva\\OneDrive\\Documentos\\FACULDADE\\PIM\\PIMBILHETERIA\\PIMBILHETERIA\\DadosVisitante.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PIMBILHETERIA\\DadosVisitante.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BILHETERIA.c",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\FACULDADE\\PIM\\PIMBILHETERIA\\PIMBILHETERIA\\BILHETERIA.c",
+              "RelativeDocumentMoniker": "PIMBILHETERIA\\BILHETERIA.c",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\FACULDADE\\PIM\\PIMBILHETERIA\\PIMBILHETERIA\\BILHETERIA.c",
+              "RelativeToolTip": "PIMBILHETERIA\\BILHETERIA.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-05T19:34:02.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DadosVisitante.c",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\FACULDADE\\PIM\\PIMBILHETERIA\\PIMBILHETERIA\\DadosVisitante.c",
+              "RelativeDocumentMoniker": "PIMBILHETERIA\\DadosVisitante.c",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\FACULDADE\\PIM\\PIMBILHETERIA\\PIMBILHETERIA\\DadosVisitante.c",
+              "RelativeToolTip": "PIMBILHETERIA\\DadosVisitante.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-05T19:34:02.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DadosVisitante.h",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\FACULDADE\\PIM\\PIMBILHETERIA\\PIMBILHETERIA\\DadosVisitante.h",
+              "RelativeDocumentMoniker": "PIMBILHETERIA\\DadosVisitante.h",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\FACULDADE\\PIM\\PIMBILHETERIA\\PIMBILHETERIA\\DadosVisitante.h",
+              "RelativeToolTip": "PIMBILHETERIA\\DadosVisitante.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T19:34:02.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+Nome: Thiago
+Idade: 20
+Tipo de ingresso: C
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 40,00
+Método de pagamento: Cartão de Débito
+----------------------------------------------------------------------
+
+Nome: t
+Idade: 20
+Tipo de ingresso: a
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: -107374176,00
+Método de pagamento: ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ
+----------------------------------------------------------------------
+
+Nome: t
+Idade: 20
+Tipo de ingresso: c
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 40,00
+Método de pagamento: Cartão de Débito
+----------------------------------------------------------------------
+
+Nome: Thiago
+Idade: 20
+Tipo de ingresso: c
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 40,00
+Método de pagamento: Cartão de Débito
+----------------------------------------------------------------------
+
+Nome: Ad
+Idade: 47
+Tipo de ingresso: c
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 40,00
+Método de pagamento: PIX
+----------------------------------------------------------------------
+
+Nome: Thiago
+Idade: 20
+Tipo de ingresso: b
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 20,00
+Método de pagamento: Cartão de Débito
+----------------------------------------------------------------------
+
+Nome: AdÆo
+Idade: 47
+Tipo de ingresso: c
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 40,00
+Método de pagamento: Cartão de Crédito
+----------------------------------------------------------------------
+
+Nome: Vanderlino
+Idade: 83
+Tipo de ingresso: a
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 40,00
+Método de pagamento: Cartão de Crédito
+----------------------------------------------------------------------
+
+Nome: Thiago
+Idade: 20
+Tipo de ingresso: b
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 20,00
+Método de pagamento: Cartão de Débito
+----------------------------------------------------------------------
+
+Nome: Maria
+Idade: 47
+Tipo de ingresso: C
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 40,00
+Método de pagamento: Cartão de Crédito
+----------------------------------------------------------------------
+
+Nome: Nissinha
+Idade: 85
+Tipo de ingresso: A
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 40,00
+Método de pagamento: Cartão de Crédito
+----------------------------------------------------------------------
+
+Nome: Thiago
+Idade: 20
+Tipo de ingresso: b
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 20,00
+Método de pagamento: Cartão de Crédito
+----------------------------------------------------------------------
+
+Nome: Thiago
+Idade: 20
+Tipo de ingresso: b
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 20,00
+Método de pagamento: PIX
+----------------------------------------------------------------------
+
+Nome: Pedro
+Idade: 30
+Tipo de ingresso: /
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 20,00
+Método de pagamento: PIX
+----------------------------------------------------------------------
+
+Nome: Thiago 
+Idade: 20
+Tipo de ingresso: b
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 20,00
+Método de pagamento: Cartão de Débito
+----------------------------------------------------------------------
+
+Nome: Ivanete
+Idade: 77
+Tipo de ingresso: a
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 20,00
+Método de pagamento: Cartão de Débito
+----------------------------------------------------------------------
+
+Nome: Adao
+Idade: 47
+Tipo de ingresso: c
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 40,00
+Método de pagamento: Cartão de Débito
+----------------------------------------------------------------------
+
+Nome: Piter
+Idade: 20
+Tipo de ingresso: b
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 20,00
+Método de pagamento: Cartão de Débito
+----------------------------------------------------------------------
+
+Nome: Amanda
+Idade: 40
+Tipo de ingresso: b
+Data da visita: 30/11/2023
+Exposição: 100 anos da Semana de Arte Moderna
+Valor do ingresso: 20,00
+Método de pagamento: Cartão de Débito
+----------------------------------------------------------------------
+
+Nome: Helder
+Idade: 51
+Tipo de ingresso: A
+Data da visita: 21/11/2023
+Exposição: Jogos Olímpicos de Paris 2024
+Valor do ingresso: -107374176,00
+Método de pagamento: ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ
+----------------------------------------------------------------------
+

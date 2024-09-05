@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (Project3.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  ExpoParis2024.c
+  ExpoPele.c
+  ExpoSAModerna.c
+  ExpoSantosDumond.c
+  PRINCIPALMUSEU.c
+C:\Users\carva\OneDrive\Documentos\FACULDADE\PIM\PIMEXPOSIÇÃO\Project3\PRINCIPALMUSEU.c(26,26): warning C4101: 'visitante': variável local não referenciada
+  Questionario.c
+C:\Users\carva\OneDrive\Documentos\FACULDADE\PIM\PIMEXPOSIÇÃO\Project3\Questionario.c(19,20): warning C4013: 'strcspn' indefinido; assumindo extern retornando int
+  Gerando Código...
+  Project3.vcxproj -> C:\Users\carva\OneDrive\Documentos\FACULDADE\PIM\PIMEXPOSIÇÃO\x64\Debug\PIMMUSEU.exe

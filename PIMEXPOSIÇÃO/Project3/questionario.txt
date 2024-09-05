@@ -1,0 +1,173 @@
+Nome: Thiago
+Idade: 20
+Nota da exposição: 2
+----------------------
+Nome:  Thiago Novaes
+Idade: 20
+Nota da exposição: 3
+----------------------
+Nome: 
+Idade: 20
+Nota da exposição: 1
+----------------------
+Nome: 
+Idade: 20
+Nota da Primeira obra: 3
+Nota da Segunda obra: 3
+Nota da Terceira obra: 3
+Nota da Quarta obra: 3
+Nota da Quinta obra: 3
+----------------------
+Nome: 
+Idade: 2
+Nota da Primeira obra: 1
+Nota da Segunda obra: 2
+Nota da Terceira obra: 3
+Nota da Quarta obra: 2
+Nota da Quinta obra: 3
+----------------------
+Nome: 
+Idade: 20
+Nota da Primeira obra: 3
+Nota da Segunda obra: 2
+Nota da Terceira obra: 1
+Nota da Quarta obra: 4
+Nota da Quinta obra: 3
+----------------------
+Nome: 
+Idade: 20
+Nota da Primeira obra: 3
+Nota da Segunda obra: 2
+Nota da Terceira obra: 1
+Nota da Quarta obra: 3
+Nota da Quinta obra: 3
+----------------------
+Nome: 
+Idade: 78
+Nota da Primeira obra: 3
+Nota da Segunda obra: 3
+Nota da Terceira obra: 3
+Nota da Quarta obra: 3
+Nota da Quinta obra: 3
+----------------------
+Nome: 
+Idade: 21
+Nota da Primeira obra: 3
+Nota da Segunda obra: 3
+Nota da Terceira obra: 3
+Nota da Quarta obra: 3
+Nota da Quinta obra: 3
+----------------------
+Nome: 20
+Idade: 20
+Nota da Primeira obra: -858993460
+Nota da Segunda obra: -858993460
+Nota da Terceira obra: -858993460
+Nota da Quarta obra: -858993460
+Nota da Quinta obra: -858993460
+----------------------
+Nome: Thiago 
+Idade: 20
+Nota da Primeira obra: 3
+Nota da Segunda obra: 3
+Nota da Terceira obra: 3
+Nota da Quarta obra: 3
+Nota da Quinta obra: 3
+----------------------
+Nome: 
+Idade: 20
+Nota da Primeira obra: 3
+Nota da Segunda obra: 3
+Nota da Terceira obra: 3
+Nota da Quarta obra: 3
+Nota da Quinta obra: 3
+----------------------
+Nome: Thiago 
+Idade: 20
+Nota da Primeira obra: 3
+Nota da Segunda obra: 2
+Nota da Terceira obra: 1
+Nota da Quarta obra: 2
+Nota da Quinta obra: 3
+----------------------
+Nome: 
+Idade: 20
+Nota da Primeira obra: 3
+Nota da Segunda obra: 3
+Nota da Terceira obra: 3
+Nota da Quarta obra: 3
+Nota da Quinta obra: 3
+----------------------
+Nome: Thiago Carvalho 
+Idade: 20
+Nota da Primeira obra: 3
+Nota da Segunda obra: 3
+Nota da Terceira obra: 3
+Nota da Quarta obra: 3
+Nota da Quinta obra: 3
+----------------------
+Nome: a
+Idade: 2
+Nota da Primeira obra: 2
+Nota da Segunda obra: 2
+Nota da Terceira obra: 2
+Nota da Quarta obra: 2
+Nota da Quinta obra: 2
+----------------------
+Nome: Thiago
+Idade: 20
+Nota da Primeira obra: 3
+Nota da Segunda obra: 2
+Nota da Terceira obra: 1
+Nota da Quarta obra: 3
+Nota da Quinta obra: 3
+Nota da Sexta obra: 2
+Nota da Sétima obra: 3
+Nota da Oitava obra: 2
+----------------------
+Nome: Th
+Idade: 1
+Nota da Primeira obra: 1
+Nota da Segunda obra: 2
+Nota da Terceira obra: 3
+Nota da Quarta obra: 2
+Nota da Quinta obra: 1
+Nota da Sexta obra: 2
+Nota da Sétima obra: 1
+Nota da Oitava obra: 2
+----------------------
+Nome: Thiago
+Idade: 20
+Nota da Primeira obra: 1
+Nota da Segunda obra: 2
+Nota da Terceira obra: 3
+Nota da Quarta obra: 2
+Nota da Quinta obra: 2
+Nota da Sexta obra: 3
+Nota da Sétima obra: 1
+Nota da Oitava obra: 2
+----------------------
+Nome: Thiago
+Idade: 24
+Nota da Primeira obra: 1
+Nota da Segunda obra: 2
+Nota da Terceira obra: 3
+Nota da Quarta obra: 1
+Nota da Quinta obra: 2
+Nota da Sexta obra: 3
+Nota da Sétima obra: 3
+Nota da Oitava obra: 2
+----------------------
+Nome: Thi
+Idade: 20
+Nota da Primeira obra: 1
+Nota da Segunda obra: 2
+Nota da Terceira obra: 3
+Nota da Quarta obra: 1
+Nota da Quinta obra: 23
+Nota da Sexta obra: 2
+Nota da Sétima obra: 3
+Nota da Oitava obra: 2
+Nota da Nona obra: 1
+Nota da Décima obra: 2
+----------------------

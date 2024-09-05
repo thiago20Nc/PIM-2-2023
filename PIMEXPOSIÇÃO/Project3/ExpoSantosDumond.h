@@ -1,0 +1,7 @@
+#ifndef EXPOSICAO_SANTOS_DUMOND_H//BIBLIOTECA DA EXPOSIÇÃO SANTOS DUMONT
+#define EXPOSICAO_SANTOS_DUMOND_H
+
+void exposicaoSantosDumont();
+
+#endif
+

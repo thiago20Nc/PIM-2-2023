@@ -1,0 +1,9 @@
+Nome: Cecilia Novaes
+Idade: 15
+Tipo de ingresso: C
+Data da visita: 25/11/2023
+Exposição: Vida de Pelé
+Valor do ingresso: 40,00
+Método de pagamento: PIX
+----------------------------------------------------------------------
+

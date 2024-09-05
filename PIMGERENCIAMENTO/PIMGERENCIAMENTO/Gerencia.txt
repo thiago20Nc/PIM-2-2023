@@ -1,0 +1,11 @@
+Informações da Exposição:
+Nome da Exposição: Pele
+Data da Exposição: 01/11/2023
+Número de visitantes que adquiriram entrada gratuita: 0
+Número de visitantes que compraram meia-entrada: 0
+Número de visitantes que compraram entrada inteira: 1
+Arrecadação total: R$40
+Número total de visitantes: 1
+
+Obra com a maior nota: Obra 10 - Nota: 8
+Obra com a menor nota: Obra 1 - Nota: 1

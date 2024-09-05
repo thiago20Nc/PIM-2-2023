@@ -1,0 +1,6 @@
+#ifndef EXPOSICAO_PARIS_2024_H//BIBLIOTECA DA EXPOSIÇÃO PARIS 2024
+#define EXPOSICAO_PARIS_2024_H
+
+void exposicaoParis2024();
+
+#endif
